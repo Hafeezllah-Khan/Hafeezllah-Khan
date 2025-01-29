@@ -12,6 +12,10 @@ class AboutMe {
 
 ```
 
+![Hafeezllah-Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafeezllah-Khan&show_icons=true&theme=dark)
+
+
+
 <!--
 # 👋 Hi, I’m @Hafeezllah-Khan
 
